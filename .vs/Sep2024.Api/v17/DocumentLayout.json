@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.domain\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|solutionrelative:sep2024.domain\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.domain\\models\\dtos\\productsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|solutionrelative:sep2024.domain\\models\\dtos\\productsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.application\\general\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|solutionrelative:sep2024.application\\general\\mappers\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.infraestructure\\general\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|solutionrelative:sep2024.infraestructure\\general\\configurations\\productoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.infraestructure\\core\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|solutionrelative:sep2024.infraestructure\\core\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|solutionrelative:sep2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|solutionrelative:sep2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.infraestructure\\general\\persistences\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|solutionrelative:sep2024.infraestructure\\general\\persistences\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|solutionrelative:sep2024\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024\\sep2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F5B98D1-F5DB-40DA-8DF9-A0FD26496F56}|Sep2024\\Sep2024.csproj|solutionrelative:sep2024\\sep2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.application\\general\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|solutionrelative:sep2024.application\\general\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.application\\general\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E693EB0F-9094-4B9A-8D57-28F62B3ABB97}|sep2024.Application\\sep2024.Application.csproj|solutionrelative:sep2024.application\\general\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C16FF-F706-4F72-8DBC-31E30A679AD0}|sep2024.Domain\\sep2024.Domain.csproj|solutionrelative:sep2024.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.infraestructure\\core\\persistences\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|solutionrelative:sep2024.infraestructure\\core\\persistences\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|d:\\proyectos software\\.net_sep\\sep2024.api\\sep2024.infraestructure\\sep2024.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07201183-485F-4DB1-ABAC-B7FF028037EA}|sep2024.Infraestructure\\sep2024.Infraestructure.csproj|solutionrelative:sep2024.infraestructure\\sep2024.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\Core\\Contexts\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "sep2024.Infraestructure\\Core\\Contexts\\ApplicationContext.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\Core\\Contexts\\ApplicationContext.cs",
+              "RelativeToolTip": "sep2024.Infraestructure\\Core\\Contexts\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:30:10.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoConfiguration.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\General\\Configurations\\ProductoConfiguration.cs",
+              "RelativeDocumentMoniker": "sep2024.Infraestructure\\General\\Configurations\\ProductoConfiguration.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\General\\Configurations\\ProductoConfiguration.cs",
+              "RelativeToolTip": "sep2024.Infraestructure\\General\\Configurations\\ProductoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:23:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "sep2024.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "sep2024.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:59:57.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\General\\Persistences\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "sep2024.Infraestructure\\General\\Persistences\\ProductRepository.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\General\\Persistences\\ProductRepository.cs",
+              "RelativeToolTip": "sep2024.Infraestructure\\General\\Persistences\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:13:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "sep2024.Application\\General\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "sep2024.Application\\General\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:29:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sep2024",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Sep2024.csproj",
+              "RelativeDocumentMoniker": "Sep2024\\Sep2024.csproj",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Sep2024.csproj",
+              "RelativeToolTip": "Sep2024\\Sep2024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T03:54:21.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "sep2024.Application\\General\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Services\\IProductService.cs",
+              "RelativeToolTip": "sep2024.Application\\General\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:52:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "sep2024.Domain\\Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "sep2024.Domain\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:56:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Sep2024\\appsettings.json",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\appsettings.json",
+              "RelativeToolTip": "Sep2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T23:11:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Mappers\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "sep2024.Application\\General\\Mappers\\ProductMapper.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Application\\General\\Mappers\\ProductMapper.cs",
+              "RelativeToolTip": "sep2024.Application\\General\\Mappers\\ProductMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:53:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSaveDto.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Models\\Dtos\\ProductSaveDto.cs",
+              "RelativeDocumentMoniker": "sep2024.Domain\\Models\\Dtos\\ProductSaveDto.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Domain\\Models\\Dtos\\ProductSaveDto.cs",
+              "RelativeToolTip": "sep2024.Domain\\Models\\Dtos\\ProductSaveDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:54:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Sep2024\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Sep2024\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:53:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Program.cs",
+              "RelativeDocumentMoniker": "Sep2024\\Program.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\Sep2024\\Program.cs",
+              "RelativeToolTip": "Sep2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:10:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\Core\\Persistences\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "sep2024.Infraestructure\\Core\\Persistences\\CrudRepository.cs",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\Core\\Persistences\\CrudRepository.cs",
+              "RelativeToolTip": "sep2024.Infraestructure\\Core\\Persistences\\CrudRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:08:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sep2024.Infraestructure.csproj",
+              "DocumentMoniker": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\sep2024.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "sep2024.Infraestructure\\sep2024.Infraestructure.csproj",
+              "ToolTip": "D:\\Proyectos Software\\.NET_sep\\Sep2024.Api\\sep2024.Infraestructure\\sep2024.Infraestructure.csproj",
+              "RelativeToolTip": "sep2024.Infraestructure\\sep2024.Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T23:45:22.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

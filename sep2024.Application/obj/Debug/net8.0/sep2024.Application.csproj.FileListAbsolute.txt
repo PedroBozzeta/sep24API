@@ -1,0 +1,17 @@
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Application.deps.json
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Application.dll
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Application.pdb
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Domain.dll
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Infraestructure.dll
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Domain.pdb
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\bin\Debug\net8.0\sep2024.Infraestructure.pdb
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.csproj.AssemblyReference.cache
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.AssemblyInfoInputs.cache
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.AssemblyInfo.cs
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024..26BF7FEB.Up2Date
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.dll
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\refint\sep2024.Application.dll
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\sep2024.Application.pdb
+D:\Proyectos Software\.NET_sep\Sep2024.Api\sep2024.Application\obj\Debug\net8.0\ref\sep2024.Application.dll
